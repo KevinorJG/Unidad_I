@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Universidad\Programacion I\ArchivosAleatorios\ArchivosAleatorios\bin\Debug\ArchivosAleatorios.exe.config
+C:\Users\User\Desktop\Universidad\Programacion I\ArchivosAleatorios\ArchivosAleatorios\bin\Debug\ArchivosAleatorios.exe
+C:\Users\User\Desktop\Universidad\Programacion I\ArchivosAleatorios\ArchivosAleatorios\bin\Debug\ArchivosAleatorios.pdb
+C:\Users\User\Desktop\Universidad\Programacion I\ArchivosAleatorios\ArchivosAleatorios\obj\Debug\ArchivosAleatorios.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Universidad\Programacion I\ArchivosAleatorios\ArchivosAleatorios\obj\Debug\ArchivosAleatorios.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Universidad\Programacion I\ArchivosAleatorios\ArchivosAleatorios\obj\Debug\ArchivosAleatorios.Properties.Resources.resources
+C:\Users\User\Desktop\Universidad\Programacion I\ArchivosAleatorios\ArchivosAleatorios\obj\Debug\ArchivosAleatorios.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Universidad\Programacion I\ArchivosAleatorios\ArchivosAleatorios\obj\Debug\ArchivosAleatorios.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Universidad\Programacion I\ArchivosAleatorios\ArchivosAleatorios\obj\Debug\ArchivosAleatorios.exe
+C:\Users\User\Desktop\Universidad\Programacion I\ArchivosAleatorios\ArchivosAleatorios\obj\Debug\ArchivosAleatorios.pdb

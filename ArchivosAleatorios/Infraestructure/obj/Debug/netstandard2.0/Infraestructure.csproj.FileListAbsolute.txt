@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Universidad\Programacion I\ArchivosAleatorios\Infraestructure\bin\Debug\netstandard2.0\Infraestructure.deps.json
+C:\Users\User\Desktop\Universidad\Programacion I\ArchivosAleatorios\Infraestructure\bin\Debug\netstandard2.0\Infraestructure.dll
+C:\Users\User\Desktop\Universidad\Programacion I\ArchivosAleatorios\Infraestructure\bin\Debug\netstandard2.0\Infraestructure.pdb
+C:\Users\User\Desktop\Universidad\Programacion I\ArchivosAleatorios\Infraestructure\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\User\Desktop\Universidad\Programacion I\ArchivosAleatorios\Infraestructure\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\User\Desktop\Universidad\Programacion I\ArchivosAleatorios\Infraestructure\obj\Debug\netstandard2.0\Infraestructure.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Universidad\Programacion I\ArchivosAleatorios\Infraestructure\obj\Debug\netstandard2.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Universidad\Programacion I\ArchivosAleatorios\Infraestructure\obj\Debug\netstandard2.0\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Universidad\Programacion I\ArchivosAleatorios\Infraestructure\obj\Debug\netstandard2.0\Infraestructure.AssemblyInfo.cs
+C:\Users\User\Desktop\Universidad\Programacion I\ArchivosAleatorios\Infraestructure\obj\Debug\netstandard2.0\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Universidad\Programacion I\ArchivosAleatorios\Infraestructure\obj\Debug\netstandard2.0\Infraestructure.csproj.CopyComplete
+C:\Users\User\Desktop\Universidad\Programacion I\ArchivosAleatorios\Infraestructure\obj\Debug\netstandard2.0\Infraestructure.dll
+C:\Users\User\Desktop\Universidad\Programacion I\ArchivosAleatorios\Infraestructure\obj\Debug\netstandard2.0\Infraestructure.pdb
